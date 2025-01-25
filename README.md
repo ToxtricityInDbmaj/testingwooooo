@@ -23,11 +23,16 @@ waaaaaaaaaa
         "
       >
         <span style="display: inline-block; height: 30px; width: 40px;"></span>
-        <img
-          src="https://play.pokemonshowdown.com/sprites/trainers/hilda-masters3.png"
-          width="80px"
-          height="80px"
-        >
+            <span
+          style="
+            display: inline-block;
+            height: 80px;
+            width: 80px;
+            background-image: url('https://play.pokemonshowdown.com/sprites/trainers/hilda-masters3.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+          "
+        ></span>
         <span style="display: inline-block; height: 30px; width: 40px;"></span>
         <br>
         <!-- Pokémon icons -->
