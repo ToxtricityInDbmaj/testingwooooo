@@ -2,7 +2,7 @@
 new...
 wiiiiiiii
 
-<body>
+<body style='background-color:powderblue;'>
   <span class="infobox" style="display: inline-block; width: 250px;">
     <center>
       <b>
